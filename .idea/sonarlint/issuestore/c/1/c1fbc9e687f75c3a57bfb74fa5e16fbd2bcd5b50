@@ -1,0 +1,20 @@
+
+B
+java:S2129h" Remove this "Double" constructor(¦“„˜şÿÿÿÿ8îù¨ï›.
+y
+java:S3252Z"WUse static access with "androidx.core.content.ContextCompat" for "checkSelfPermission".(œÂ“èıÿÿÿÿ8¨ò¸Ç›.
+	java:S116-"`Rename this field "edt_place_likelihoods" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹´ê£ùÿÿÿÿ8Óï´ï›.
+H
+java:S1068."+Remove this unused "placeId" private field.( Ó‡ö8ÙË°ï›.
+
+java:S1186K"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ƒÄ„à8ü¹‚Ç›.
+
+java:S1158h"|Call the static method Double.compare(...) instead of instantiating a temporary object to perform this to string conversion.(¦“„˜şÿÿÿÿ8îù¨ï›.
+T
+java:S1144E"7Remove this unused private "requestPermissions" method.(½…æ¯8úîØÆ›.
+U
+java:S1659-"3Declare "edt_place_likelihoods" on a separate line.(¹´ê£ùÿÿÿÿ8Óï´ï›.
+{	java:S116*"ZRename this field "places_fragment" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õŞ¦Æÿÿÿÿÿ8 §µÆ›.
+}	java:S116,"aRename this field "btn_find_current_place" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆñÍø8 §µÆ›.
+w	java:S116-"VRename this field "edt_address" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹´ê£ùÿÿÿÿ8Óï´ï›.
+X	java:S125["<This block of commented-out lines of code should be removed.(Êşÿò8Í­Şï›.
